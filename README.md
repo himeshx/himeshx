@@ -40,3 +40,18 @@ Here are some ideas to get you started:
 I don't really know how you got here, but I will try to show a little bit about myself for you.
 
 ## Public information
+My name is Himesh Mohapatra. I currently live in Bhubaneswar, India. I am an Under Grad KIIT'25 and currently working on my portfolio website.
+On my leisure time I used to write Tech Blogs and currently doing an internship at LetsUpgrade. I am looking to contribute in Open Source Projects.
+
+<!-- My Social Handles -->
+
+<b>Connect with me:</b>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/himesh-mohapatra-386aa8224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Himesh" height="30" width="40" /></a>&emsp;
+<a href="https://instagram.com/tfhimesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Himesh" height="30" width="40" /></a>&emsp;
+<a href="https://github.com/himeshx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Himesh" height="30" width="40" /></a>&emsp;
+</p>
+
+
+
