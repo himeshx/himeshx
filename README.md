@@ -19,17 +19,15 @@ Here are some ideas to get you started:
      <a target='_blank' href="https://www.linkedin.com/in/himesh-mohapatra-386aa8224/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    
     <a target='_blank' href="https://www.instagram.com/tfhimesh/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-   
     <a target='_blank' href="https://dev.to/himesh">
         <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
     </a>
-     
+    <img alt = "profile views" src="https://komarev.com/ghpvc/?username=himexhx&color=darkturquoise">
 </div>
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=himexhx&color=cyanblue">
+
 
 ## Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
