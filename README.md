@@ -31,7 +31,7 @@ Here are some ideas to get you started:
      <a href="mailto:himeshmahapatra@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a> 
-    <p align="left"> <img src=https://komarev.com/ghpvc/?username=himeshx alt=himeshx/> </p>
+    <p align="right"> <img src=https://komarev.com/ghpvc/?username=himeshx alt=himeshx/> </p>
 </div>
 
 
