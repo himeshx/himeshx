@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--banner -->
-<img src="https://github.com/himeshx/himeshx/blob/main/assets/himesh.png" height="500">
+<img src="https://github.com/himeshx/himeshx/blob/main/assets/himesh.png">
 
 <div>
      <a target='_blank' href="https://www.linkedin.com/in/himesh-mohapatra-386aa8224/">
@@ -62,12 +62,13 @@ On my leisure time I used to write Tech Blogs and currently doing an internship 
 
 ## Curiosities about me
 
-* Currently an active MUNer member of Kalinga Institution of Industrial Technology MUN society.
-* I did 10 years of music classes playing classical guitar and singing in a choir which was  reference in the São Paulo state at that time. My final presentation on this road was at the "Sala São Paulo", which is the biggest and greatest theather in Brazil;
-* I started with coding using **C lang**, switching lines and doing the "try/error" approach on a GTA San Andreas gamemode only to see if something changes in game;
-* I had a "sensei" which teach a lot about programming and he made a huge progress with this knowlegment. Today I just made the same he did for me on the past at the He4rt Developers;
-* I already had 2 private MapleStory servers (Java), 3 GTA SA:MP  private servers (Pawn) and 1 Minecraft Server (Java);
-* I really like to help people.
+* Currently an active MUNer member of Kalinga Institution of Industrial Technology MUN society; 
+* Orator and a public speaker at KINDLE;
+* Active member of coding club at KINDLE with prior experience in C language,C++,HTML,Javascript,CSS; 
+* I started with coding using **C lang**;
+* I had a "sensei" who taught me a lot about programming and he made a huge progress with this knowlegment;
+* I really like to help people;
+* I am looking to contribute in Open Source Projects.
 
 
 
