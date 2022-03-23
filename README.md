@@ -30,8 +30,7 @@ Here are some ideas to get you started:
     </a>
      <a href="mailto:himeshmahapatra@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a> 
-    <p align="right"> <img src=https://komarev.com/ghpvc/?username=himeshx alt=himeshx/> </p>
+</a> <p align="right"> <img src=https://komarev.com/ghpvc/?username=himeshx alt=himeshx/> </p>
 </div>
 
 
@@ -51,7 +50,6 @@ On my leisure time I used to write Tech Blogs and currently doing an internship 
 <a href="https://www.linkedin.com/in/himesh-mohapatra-386aa8224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Himesh" height="30" width="40" /></a>&emsp;
 <a href="https://instagram.com/tfhimesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Himesh" height="30" width="40" /></a>&emsp;
 <a href="https://github.com/himeshx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Himesh" height="30" width="40" /></a>&emsp;
-<a href="mailto:himeshmahapatra@gmail.com"" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Gmail.svg" alt="Himesh" heighgmaildth="40" /></a>&emsp;
 </p>
 
 
