@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--banner -->
-<img src="https://github.com/himeshx/himeshx/blob/main/assets/himesh.png" height="300">
+<img src="https://github.com/himeshx/himeshx/blob/main/assets/himesh.png" height="500">
 
 <div>
      <a target='_blank' href="https://www.linkedin.com/in/himesh-mohapatra-386aa8224/">
