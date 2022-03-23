@@ -29,8 +29,8 @@ Here are some ideas to get you started:
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
     </a>
      <a href="mailto:himeshmahapatra@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a> &numbsp;&numbsp;&numbsp;&numbsp;&numbsp;&numbsp;
     <img alt = "profile views" src="https://komarev.com/ghpvc/?username=himexhx&color=brightgreen">
 </div>
 
