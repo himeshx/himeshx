@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--banner -->
-<img src="https://github.com/himeshx/himeshx/assets/himesh.png">
+<img src="https://github.com/himeshx/himeshx/blob/main/assets/himesh.png">
