@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </div>
 
 
-## Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="12px">
 
 I don't really know how you got here, but I will try to show a little bit about myself for you.
 
