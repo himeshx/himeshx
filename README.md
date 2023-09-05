@@ -13,23 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--banner -->
-<img src="https://github.com/himeshx/himeshx/blob/main/assets/himeshx.jpg">
 
-<div>
-     <a target='_blank' href="https://www.linkedin.com/in/himesh-mohapatra-386aa8224/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a target='_blank' href="https://www.instagram.com/tfhimesh/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-
-     <a href="https://github.com/himeshx" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
-    </a>
-     <a href="mailto:himeshmahapatra@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a> <p align="right"> <img src=https://komarev.com/ghpvc/?username=himeshx alt=himeshx/> </p>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tfhimesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himesh-mohapatra-386aa8224/) [![Leetcode](https://img.shields.io/badge/Leetcode-%34FF00.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/himeshx/) 
+<br>
 
 
 ## Hello there
