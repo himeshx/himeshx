@@ -60,7 +60,7 @@ I'm a passionate web developer with a knack for turning ideas into functional, u
 
 <!-- Contribution Snake -->
 
-![snake gif](https://github.com/himeshx/himeshx/blob/output/github-contribution-grid-snake.svg)
+![snake gif](github-contribution-grid-snake.svg)
 
 
 [![](https://visitcount.itsvg.in/api?id=himeshx&icon=4&color=12)](https://visitcount.itsvg.in)
