@@ -26,14 +26,14 @@ I don't really know how you got here, but I will try to show a little bit about 
 
 ## Public information
 My name is Himesh Mohapatra. I currently live in Bhubaneswar, India. I am an Under Grad KIIT'25 and currently working on my portfolio website.
-On my leisure time I used to write Tech Blogs and currently doing an internship at LetsUpgrade. I am looking to contribute in Open Source Projects.
+I'm a passionate web developer with a knack for turning ideas into functional, user-friendly websites and web applications. I am looking to contribute in Open Source Projects.
 
 ## Detailed information
 
 * **Name**: Himesh Mohapatra
-* **Age**: 19
+* **Age**: 20
 * **Living in**: Bhubaneswar - Odisha, India
-* **Stack**: C - C++ - HTML - CSS - Javasript
+* **Stack**: C - C++ - HTML - CSS - Javasript - 
 * **University**: Kalinga Institute of Industrial Technology
 
 <!-- My Social Handles -->
