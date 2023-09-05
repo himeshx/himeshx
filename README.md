@@ -33,7 +33,7 @@ I'm a passionate web developer with a knack for turning ideas into functional, u
 * **Name**: Himesh Mohapatra
 * **Age**: 20
 * **Living in**: Bhubaneswar - Odisha, India
-* **Stack**: C - C++ - HTML - CSS - Javasript - 
+* **Stack**: C - C++ - HTML - CSS - Javasript - React - Angular - Vue.js - Node.js - Python - Ruby - MongoDB - MySQL  
 * **University**: Kalinga Institute of Industrial Technology
 
 <!-- My Social Handles -->
@@ -48,13 +48,24 @@ I'm a passionate web developer with a knack for turning ideas into functional, u
 
 ## Curiosities about me
 
-* Currently an active MUNer member of Kalinga Institution of Industrial Technology MUN society; 
-* Orator and a public speaker at KINDLE;
-* Active member of coding club at KINDLE with prior experience in C language,C++,HTML,Javascript,CSS; 
+* Currently working as a Full Stack developer in AISoC; 
+* Orator and a public speaker;
+* Active member of coding clubs with prior experience in C language,C++,HTML,Javascript,CSS; 
 * I started with coding using **C lang**;
 * I had a "sensei" who taught me a lot about programming and he made a huge progress with this knowlegment;
 * I really like to help people;
 * I am looking to contribute in Open Source Projects.
 
+## Watch my contributions get eaten by snake 🐍
+
+<!-- Contribution Snake -->
+
+![snake gif](https://github.com/himeshx/himeshx/blob/output/github-contribution-grid-snake.svg)
+
+
+[![](https://visitcount.itsvg.in/api?id=himeshx&icon=4&color=12)](https://visitcount.itsvg.in)
+<!-- Footer -->
+
+<img src="https://github.com/himeshx/himeshx/blob/main/Footer.jpg">
 
 
