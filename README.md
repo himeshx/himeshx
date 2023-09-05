@@ -66,6 +66,6 @@ I'm a passionate web developer with a knack for turning ideas into functional, u
 [![](https://visitcount.itsvg.in/api?id=himeshx&icon=4&color=12)](https://visitcount.itsvg.in)
 <!-- Footer -->
 
-<img src="https://github.com/himeshx/himeshx/blob/main/Footer.jpg">
+<img src="assets/Footer.jpg">
 
 
