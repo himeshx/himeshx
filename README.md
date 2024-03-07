@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 I don't really know how you got here, but I will try to show a little bit about myself for you.
 
 ## Public information
-My name is Himesh Mohapatra. I currently live in Bhubaneswar, India. I am an Under Grad KIIT'25 and currently working on my portfolio website.
+My name is Himesh Mohapatra. I currently live in Bhubaneswar, India. I am an Under Grad KIIT'25 and currently working at RnPSoft as a FullStack Developer.
 I'm a passionate web developer with a knack for turning ideas into functional, user-friendly websites and web applications. I am looking to contribute in Open Source Projects.
 
 ## Detailed information
 
 * **Name**: Himesh Mohapatra
-* **Age**: 20
+* **Age**: 21
 * **Living in**: Bhubaneswar - Odisha, India
-* **Stack**: C - C++ - HTML - CSS - Javasript - React - Angular - Vue.js - Node.js - Python - Ruby - MongoDB - MySQL  
+* **Stack**: C - C++ - HTML - CSS - Javasript - React - Angular - Vue.js - Node.js - Python - Ruby - MongoDB - MySQL - Express.js - jQuery - Firebase.com - HTML DOM - ES5 - JSON - XML - Apache - Linux
 * **University**: Kalinga Institute of Industrial Technology
 
 <!-- My Social Handles -->
