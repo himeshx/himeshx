@@ -30,11 +30,11 @@ I'm a passionate web developer with a knack for turning ideas into functional, u
 
 ## Detailed information
 
-* **Name**: Himesh Mohapatra
-* **Age**: 21
-* **Living in**: Bhubaneswar - Odisha, India
-* **Stack**: C - C++ - HTML - CSS - Javasript - React - Angular - Vue.js - Node.js - Python - Ruby - MongoDB - MySQL - Express.js - jQuery - Firebase.com - HTML DOM - ES5 - JSON - XML - Apache - Linux
-* **University**: Kalinga Institute of Industrial Technology
+* 👨🏽‍💻 **Name**: Himesh Mohapatra
+* 🌱 **Age**: 21
+* 📫 **Living in**: Bhubaneswar - Odisha, India
+* 💬 **Stack**: C - C++ - HTML - CSS - Javasript - React - Angular - Vue.js - Node.js - Python - Ruby - MongoDB - MySQL - Express.js - jQuery - Firebase.com - HTML DOM - ES5 - JSON - XML - Apache - Linux
+* 💻 **University**: Kalinga Institute of Industrial Technology
 
 <!-- My Social Handles -->
 
