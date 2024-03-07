@@ -79,6 +79,8 @@ I'm a passionate web developer with a knack for turning ideas into functional, u
 <a href="https://instagram.com/tfhimesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Himesh" height="30" width="40" /></a>&emsp;
 <a href="https://github.com/himeshx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Himesh" height="30" width="40" /></a>&emsp;
 <a href="https://www.leetcode.com/himeshx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himeshx" height="30" width="40" /></a>
+<a href="https://instagram.com/tfhimesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tfhimesh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/himeshmahapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himeshmahapatra" height="30" width="40" /></a>
 </p>
 
 ## Curiosities about me
@@ -111,7 +113,6 @@ I'm a passionate web developer with a knack for turning ideas into functional, u
 <img src="assets/Footer.jpg">
 
 
-<a href="https://www.leetcode.com/himeshx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himeshx" height="30" width="40" /></a>
 
 
 
