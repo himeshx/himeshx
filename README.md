@@ -28,6 +28,24 @@ I don't really know how you got here, but I will try to show a little bit about 
 My name is Himesh Mohapatra. I currently live in Bhubaneswar, India. I am an Under Grad KIIT'25 and currently working at RnPSoft as a FullStack Developer.
 I'm a passionate web developer with a knack for turning ideas into functional, user-friendly websites and web applications. I am looking to contribute in Open Source Projects.
 
+## Skills
+
+<p align="left"> 
+
+  <a href="https://golang.org/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://github.com/tomchen/stack-icons/blob/master/logos/go.svg"
+ alt="golang" width="40" height="40" /> </a> 
+	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.rust-lang.org/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://github.com/tomchen/stack-icons/blob/master/logos/rust.svg"
+      alt="rust" width="40" height="40" /> </a> -->
+	<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,django,flask,react,nodejs,ts,js,express,fastapi,kafka,mongodb,spring,mysql,redis,cpp,firebase,go,html,css,kotlin,rust,vue,linux,git,kubernetes,docker,gcp,aws" />
+  </a>
+
 ## Detailed information
 
 * 👨🏽‍💻 **Name**: Himesh Mohapatra
