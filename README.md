@@ -101,7 +101,6 @@ I'm a passionate web developer with a knack for turning ideas into functional, u
 
 ###
 
-<img src="https://raw.githubusercontent.com/himeshx/himeshx/output/snake.svg" alt="Snake animation" />
 
 ###
 
