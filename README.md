@@ -90,8 +90,18 @@ I'm a passionate web developer with a knack for turning ideas into functional, u
 ## Watch my contributions get eaten by snake 🐍
 
 <!-- Contribution Snake -->
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
 
-![snake gif](github-contribution-grid-snake.svg)
+###
+
+<img src="https://raw.githubusercontent.com/himeshx/himeshx/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 [![](https://visitcount.itsvg.in/api?id=himeshx&icon=4&color=12)](https://visitcount.itsvg.in)
