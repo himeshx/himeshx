@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--banner -->
-<img src= "assets/himeshx.jpg">
+<!-- <img src= "assets/himeshx.jpg"> -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tfhimesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himesh-mohapatra-386aa8224/) [![Leetcode](https://img.shields.io/badge/Leetcode-%34FF00.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/himeshx/) 
