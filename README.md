@@ -48,13 +48,10 @@ I'm a passionate web developer with a knack for turning ideas into functional, u
 
 ## Curiosities about me
 
-* Currently working as a Full Stack developer in AISoC; 
-* Orator and a public speaker;
+* Currently working as a Full Stack developer at RnPSoft; 
 * Active member of coding clubs with prior experience in C language,C++,HTML,Javascript,CSS; 
 * I started with coding using **C lang**;
-* I had a "sensei" who taught me a lot about programming and he made a huge progress with this knowlegment;
-* I really like to help people;
-* I am looking to contribute in Open Source Projects.
+* I am looking to contribute in Open Source Projects;
 
 ## Watch my contributions get eaten by snake 🐍
 
