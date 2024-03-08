@@ -89,24 +89,6 @@ I'm a passionate web developer with a knack for turning ideas into functional, u
 * I started with coding using **C lang**;
 * I am looking to contribute in Open Source Projects;
 
-## Watch my contributions get eaten by snake 🐍
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-
 ###
 
 
