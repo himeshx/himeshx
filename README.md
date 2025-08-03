@@ -1,5 +1,5 @@
 <!--
-**himeshx/himeshx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**himeshez/himeshez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,23 +12,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--banner -->
-<!-- <img src= "assets/himeshx.jpg"> -->
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tfhimesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himesh-mohapatra-386aa8224/) [![Leetcode](https://img.shields.io/badge/Leetcode-%34FF00.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/himeshx/) 
+<img src="assets/portfolio.png">
 <br>
 
-
-## Hello there 👋
-
-I don't really know how you got here, but I will try to show a little bit about myself for you.
+## Hello there, stranger
+I don't really know how you landed here, but I will try to show a little bit about myself for you ;)<!--👋--> 
+<br>
 
 ## Public information
-My name is Himesh Mohapatra. I currently live in Bhubaneswar, India. I am an Under Grad KIIT'25 and currently working at RnPSoft as a FullStack Developer.
-I'm a passionate web developer with a knack for turning ideas into functional, user-friendly websites and web applications. I am looking to contribute in Open Source Projects.
 
+- 👨🏽‍💻 I’m currently a CSE Undergrad student at KIIT
+
+- 🌱 I’m currently learning DevOps - ☸  Kubernetes ☸
+
+- 📫 How to reach me: **himeshmahapatra@gmail.com**
+
+- 💻 Visit my Linkedin [Linkedin](https://www.linkedin.com/in/himesh-mohapatra-386aa8224/)
+
+## Detailed information
+
+* **Name**: Himesh Mohapatra
+* **Age**: 21
+* **Living in**: Bhubaneswar - Odisha
+* **Stack**: JAVA - C - Bootstrap - SQL - C++ - AWS - HTML - CSS - Tailwind - JavaScript - npm - React - GitHub - Git - Node.js - Postgre.SQL -Redis -JWT AUTH - RESTful APIs - Linux Basics - Monit - GitHub Actions - Ansible - Terraform - MongoDB - Docker - django - flask
+* **Learning**: Rust 
+* **University**: Kalinga Institute of Industrial Technology 
+* **Prizes:** Microsoft MVP and Twitch Partner
+  
 ## Skills
+
 <p align="left"> 
 <!--   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
@@ -60,45 +72,38 @@ I'm a passionate web developer with a knack for turning ideas into functional, u
       alt="rust" width="40" height="40" /> </a> -->
 	<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,django,flask,react,nodejs,ts,js,express,fastapi,kafka,mongodb,spring,mysql,redis,cpp,firebase,go,html,css,kotlin,rust,vue,linux,git,kubernetes,docker,gcp,aws" />
-  </a>
+	</a>
+	
+<!--   <h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek-Mallick&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p> -->
+  
+<!-- ## 📊 Github Stats
 
-## Detailed information
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Mallick&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek-Mallick&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
 
-* 👨🏽‍💻 **Name**: Himesh Mohapatra
-* 🌱 **Age**: 21
-* 📫 **Living in**: Bhubaneswar - Odisha, India
-* 💬 **Stack**: C - C++ - HTML - CSS - Javasript - React - Angular - Vue.js - Node.js - Python - Ruby - MongoDB - MySQL - Express.js - jQuery - Firebase.com - HTML DOM - ES5 - JSON - XML - Apache - Linux
-* 💻 **University**: Kalinga Institute of Industrial Technology
+----
 
-<!-- My Social Handles -->
-
-<b>Connect with me:</b>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/himesh-mohapatra-386aa8224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Himesh" height="30" width="40" /></a>&emsp;
-<a href="https://instagram.com/tfhimesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Himesh" height="30" width="40" /></a>&emsp;
-<a href="https://github.com/himeshx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Himesh" height="30" width="40" /></a>&emsp;
-<a href="https://www.leetcode.com/himeshx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himeshx" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/himeshmahapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himeshmahapatra" height="30" width="40" /></a>
-</p>
-
-## Curiosities about me
-
-* Currently working as a Full Stack developer at RnPSoft; 
-* Active member of coding clubs with prior experience in C language,C++,HTML,Javascript,CSS; 
-* I started with coding using **C lang**;
-* I am looking to contribute in Open Source Projects;
-
-###
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Abhishek-Mallick"><img alt="Abhishek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhishek-Mallick&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
 
-[![](https://visitcount.itsvg.in/api?id=himeshx&icon=4&color=12)](https://visitcount.itsvg.in)
-<!-- Footer -->
+<br/>
 
-<img src="assets/Footer.jpg">
+## :trophy: Git profile Trophies
 
-
-
-
-
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Mallick&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+ -->
